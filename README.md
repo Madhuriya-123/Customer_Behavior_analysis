@@ -99,10 +99,8 @@ Report & Presentation
 
 # 📊 Dashboard Preview
 
-<p align="center">
-<img src="<img width="1336" height="733" alt="Screenshot 2026-07-24 011433" src="https://github.com/user-attachments/assets/b1ebef7f-f63d-4618-a850-eec3b5010705" />
-" width="100%">
-</p>
+<img width="1348" height="752" alt="Screenshot 2026-07-24 010320" src="https://github.com/user-attachments/assets/dad878e4-2294-4fa9-834a-fecb2cd61449" />
+
 
 ---
 
